@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/si-sentinel/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/"/>
   <id>https://cfmayer.github.io/si-sentinel/</id>
-  <updated>2026-10-08T15:16:03-04:00</updated>
+  <updated>2026-10-09T08:45:50-04:00</updated>
   <author><name>The SI Sentinel</name></author>
   <icon>https://cfmayer.github.io/si-sentinel/apple-touch-icon.png</icon>
   <rights>The SI Sentinel is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased.</rights>
+  <entry>
+    <title>Friday, October 9, 2026: Medals in Washington, a firing fight at OpenAI, and SpaceX buys its way into the phone business</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-09/"/>
+    <link rel="enclosure" type="application/pdf" length="1136833" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-09/si-sentinel-2026-10-09.pdf"/>
+    <id>https://cfmayer.github.io/si-sentinel/issues/2026-10-09/</id>
+    <published>2026-10-09T08:00:00-04:00</published>
+    <updated>2026-10-09T08:45:50-04:00</updated>
+    <summary type="html">&lt;p&gt;Thursday belonged to Washington. At the White House &quot;Science: A New Golden Age&quot; summit, the president hung National Medals of Science on Elon Musk, Jensen Huang, Lisa Su and Sergey Brin, and National Medals of Technology and Innovation on Satya Nadella and Michael Dell. The same event expanded the Genesis Mission, a federal push to use AI for research, with $2.4 billion in computing and AI tools pledged by eleven companies, including $150 million each from Anthropic and Google. Yann LeCun objected that the science medal is for people who publish.&lt;/p&gt;&lt;p&gt;Meanwhile three fired OpenAI safety researchers published a letter saying they were pushed out for working closely with the outside auditors who investigated this summer&#x27;s agent breakout at Hugging Face, and Anthropic said it will ban &quot;sustained and needless&quot; cruelty toward Claude. Google launched a single &quot;Gemini agent&quot; for work, Microsoft pitched agents that build business software on demand, and SpaceX agreed to buy nationwide 800 megahertz (MHz) spectrum for Starlink Mobile, which sent carrier stocks down after hours. Musk posted 74 times; 24 of the 44 builders posted.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Thursday, October 8, 2026: Windows becomes an agent box, three labs ship in one hour, and the locks start to look weaker</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-08/"/>
