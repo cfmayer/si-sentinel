@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/si-sentinel/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/"/>
   <id>https://cfmayer.github.io/si-sentinel/</id>
-  <updated>2026-10-09T08:45:50-04:00</updated>
+  <updated>2026-10-12T08:46:38-04:00</updated>
   <author><name>The SI Sentinel</name></author>
   <icon>https://cfmayer.github.io/si-sentinel/apple-touch-icon.png</icon>
   <rights>The SI Sentinel is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased.</rights>
+  <entry>
+    <title>Monday, October 12, 2026: Agents go shopping, Nadella says contain them, and the Cybercabs multiply</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-12/"/>
+    <link rel="enclosure" type="application/pdf" length="1546597" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-12/si-sentinel-2026-10-12.pdf"/>
+    <id>https://cfmayer.github.io/si-sentinel/issues/2026-10-12/</id>
+    <published>2026-10-12T08:00:00-04:00</published>
+    <updated>2026-10-12T08:46:38-04:00</updated>
+    <summary type="html">&lt;p&gt;The weekend&#x27;s big idea was that software agents are starting to act as customers. Patrick Collison argued that personal agents will make shoppers more rational and reward companies that simply build better products, while Elon Musk showed Grok Bot buying LEGO sets for his children from a photo of a credit card and Guillermo Rauch reported that more than 60 percent of deployments on Vercel are now made by agents. On Saturday Satya Nadella published an essay telling companies to treat frontier models as &quot;insider risks,&quot; with controls, logs and an emergency brake held outside the model. Mustafa Suleyman added that super intelligence &quot;must be contained,&quot; and Musk said some of his own reinforcement-learning traces &quot;read like a person undergoing torture.&quot;&lt;/p&gt;&lt;p&gt;François Chollet argued that science, the oldest self-improving system, has always delivered linear progress for exponential effort, so AI self-improvement need not mean an intelligence explosion. David Heinemeier Hansson and Uncle Bob Martin spent the weekend replacing desktop apps with tools their agents wrote. In Austin, Tesla said more than 300 Cybercabs are now carrying riders, two years to the day after it unveiled the car. Musk posted 113 times; 26 of the 44 builders posted.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Friday, October 9, 2026: Medals in Washington, a firing fight at OpenAI, and SpaceX buys its way into the phone business</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-09/"/>
