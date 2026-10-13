@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/si-sentinel/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/"/>
   <id>https://cfmayer.github.io/si-sentinel/</id>
-  <updated>2026-10-12T08:46:38-04:00</updated>
+  <updated>2026-10-13T08:22:09-04:00</updated>
   <author><name>The SI Sentinel</name></author>
   <icon>https://cfmayer.github.io/si-sentinel/apple-touch-icon.png</icon>
   <rights>The SI Sentinel is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased.</rights>
+  <entry>
+    <title>Tuesday, October 13, 2026: Meta reaches the frontier, and everyone wants their own chips</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-13/"/>
+    <link rel="enclosure" type="application/pdf" length="736556" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-13/si-sentinel-2026-10-13.pdf"/>
+    <id>https://cfmayer.github.io/si-sentinel/issues/2026-10-13/</id>
+    <published>2026-10-13T08:00:00-04:00</published>
+    <updated>2026-10-13T08:22:09-04:00</updated>
+    <summary type="html">&lt;p&gt;Mark Zuckerberg and Alexandr Wang released Muse Wonder on Monday, the first frontier model from Meta Superintelligence Labs. Within hours Tobi Lütke said he could hardly find a task it couldn&#x27;t do, Aaron Levie said a new player at the top would push token prices down, and David Heinemeier Hansson said he had already shipped code with it. The launch was messy too: a quota bug drained paid plans, and Wang admitted the model is &quot;not as good as opus 5.5 on coding for sure.&quot; Elon Musk said the numbers being passed around &quot;do not match at all what we see with Grok @Bot!&quot;&lt;/p&gt;&lt;p&gt;On silicon, Satya Nadella made Microsoft&#x27;s &quot;biggest bet yet&quot; on its own chips with Maia 300, and Lisa Su showed AMD&#x27;s Helion rack and Verano processor for agent workloads. Broadcom&#x27;s Hock Tan called many AI investors casino gamblers, and Musk answered, &quot;No crying in the casino.&quot; Uncle Bob Martin put his agent productivity gain at &quot;about a factor of five,&quot; Demis Hassabis cheered a Lancet paper on a diagnostic AI used with real patients, and Palmer Luckey unveiled Anduril&#x27;s Steelfin interceptor. Musk posted 31 times; 23 of the 45 builders posted.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Monday, October 12, 2026: Agents go shopping, Nadella says contain them, and the Cybercabs multiply</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-12/"/>
