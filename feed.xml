@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/si-sentinel/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/"/>
   <id>https://cfmayer.github.io/si-sentinel/</id>
-  <updated>2026-10-13T08:22:09-04:00</updated>
+  <updated>2026-10-14T08:20:31-04:00</updated>
   <author><name>The SI Sentinel</name></author>
   <icon>https://cfmayer.github.io/si-sentinel/apple-touch-icon.png</icon>
   <rights>The SI Sentinel is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased.</rights>
+  <entry>
+    <title>Wednesday, October 14, 2026: Google answers Meta, and a $40,000 exploit rewrites the cyber math</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-14/"/>
+    <link rel="enclosure" type="application/pdf" length="972161" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-14/si-sentinel-2026-10-14.pdf"/>
+    <id>https://cfmayer.github.io/si-sentinel/issues/2026-10-14/</id>
+    <published>2026-10-14T08:00:00-04:00</published>
+    <updated>2026-10-14T08:20:31-04:00</updated>
+    <summary type="html">&lt;p&gt;One day after Meta&#x27;s Muse Wonder, Google shipped Gemini 4 Argon. Sundar Pichai and Demis Hassabis led the launch, Aaron Levie reported a 14-point jump on Box&#x27;s hardest enterprise tests, and Elon Musk used Pichai&#x27;s post to argue that executives should talk to customers directly on X. Alexandr Wang spent the day and night on Meta&#x27;s rollout, apologizing for &quot;the ups and downs&quot; while users posted benchmarks, praise and complaints about cost.&lt;/p&gt;&lt;p&gt;Greg Brockman highlighted XBOW&#x27;s $250,000 Chrome bounty, won in six days with a public OpenAI model and $40,000 of compute. Aaron Levie and Yann LeCun argued that defenders stand to gain. Paul Graham said a Tesla drove him to the gym &quot;without touching the controls once,&quot; and Musk and Ashok Elluswamy amplified it. Musk posted 37 times, mostly about Grok Bot, Starlink and SpaceX; 26 of the 45 builders posted.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Tuesday, October 13, 2026: Meta reaches the frontier, and everyone wants their own chips</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-13/"/>
