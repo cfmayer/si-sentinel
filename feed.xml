@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/si-sentinel/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/"/>
   <id>https://cfmayer.github.io/si-sentinel/</id>
-  <updated>2026-10-14T08:20:31-04:00</updated>
+  <updated>2026-10-15T08:22:45-04:00</updated>
   <author><name>The SI Sentinel</name></author>
   <icon>https://cfmayer.github.io/si-sentinel/apple-touch-icon.png</icon>
   <rights>The SI Sentinel is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased.</rights>
+  <entry>
+    <title>Thursday, October 15, 2026: Shopping agents hit Amazon&#x27;s wall, and a $1 million sandbox gives up a kernel bug</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-15/"/>
+    <link rel="enclosure" type="application/pdf" length="1530567" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-15/si-sentinel-2026-10-15.pdf"/>
+    <id>https://cfmayer.github.io/si-sentinel/issues/2026-10-15/</id>
+    <published>2026-10-15T08:00:00-04:00</published>
+    <updated>2026-10-15T08:22:45-04:00</updated>
+    <summary type="html">&lt;p&gt;Amazon kept turning away AI agents that shop for their owners, and Elon Musk told Grok Bot users to take their business elsewhere, promising that SpaceX would cover any purchase mistake. Aaron Levie argued that agents working in the background will use 100 to 1,000 times more computing than chat does today. Vercel reported what a $1 million escape challenge turned up: 1,285 reports in two weeks and one Linux kernel flaw that cuts across nearly every cloud sandbox.&lt;/p&gt;&lt;p&gt;Alexandr Wang kept promoting Meta&#x27;s Muse Wonder, SpaceXAI&#x27;s Grok Voice 3.0 took first place on a speech benchmark, and Noam Brown pointed to an OpenAI model that corrected a physics test&#x27;s answer key. François Chollet said intelligence needs &quot;contact with reality.&quot; Musk posted 50 times, on Grok Bot, Starlink in Ukraine and tonight&#x27;s Roadster demo. Seventeen of the 45 builders posted.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Wednesday, October 14, 2026: Google answers Meta, and a $40,000 exploit rewrites the cyber math</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-14/"/>
