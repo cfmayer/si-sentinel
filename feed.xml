@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/si-sentinel/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/"/>
   <id>https://cfmayer.github.io/si-sentinel/</id>
-  <updated>2026-10-15T08:22:45-04:00</updated>
+  <updated>2026-10-16T08:10:25-04:00</updated>
   <author><name>The SI Sentinel</name></author>
   <icon>https://cfmayer.github.io/si-sentinel/apple-touch-icon.png</icon>
   <rights>The SI Sentinel is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased.</rights>
+  <entry>
+    <title>Friday, October 16, 2026: A Roadster that flies, Muse weights that open, and a Star Mind for space</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-16/"/>
+    <link rel="enclosure" type="application/pdf" length="991029" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-16/si-sentinel-2026-10-16.pdf"/>
+    <id>https://cfmayer.github.io/si-sentinel/issues/2026-10-16/</id>
+    <published>2026-10-16T08:00:00-04:00</published>
+    <updated>2026-10-16T08:10:25-04:00</updated>
+    <summary type="html">&lt;p&gt;Tesla and SpaceX showed a next-generation Roadster that drove upside down, hopped over a line of Tesla vehicles, and claimed 0–60 mph in 0.81 seconds at a SpaceX test site outside Waco, Texas. Mark Zuckerberg and Meta released Muse Spark Open, an 816-billion-parameter open-weight model meant to run on desk Mac Studios. Elon Musk and Jensen Huang sketched a Star Mind computer for orbital data centers, with Musk saying SpaceX may want more than 10 gigawatts of compute by the end of 2027.&lt;/p&gt;&lt;p&gt;Arthur Mensch told Europe to build frontier AI or surrender it. Sundar Pichai flagged a 40-fold cut in quantum magic-state errors on Willow. Twenty-five of the 45 builders posted. Musk posted 43 times.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Thursday, October 15, 2026: Shopping agents hit Amazon&#x27;s wall, and a $1 million sandbox gives up a kernel bug</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-15/"/>
