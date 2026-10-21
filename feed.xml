@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/si-sentinel/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/"/>
   <id>https://cfmayer.github.io/si-sentinel/</id>
-  <updated>2026-10-20T08:14:26-04:00</updated>
+  <updated>2026-10-21T08:21:34-04:00</updated>
   <author><name>The SI Sentinel</name></author>
   <icon>https://cfmayer.github.io/si-sentinel/apple-touch-icon.png</icon>
   <rights>The SI Sentinel is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased; emoji in quoted posts are omitted.</rights>
+  <entry>
+    <title>Wednesday, October 21, 2026: SpaceX&#x27;s AI quarter; Anthropic answers its critics</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-21/"/>
+    <link rel="enclosure" type="application/pdf" length="848846" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-21/si-sentinel-2026-10-21.pdf"/>
+    <id>https://cfmayer.github.io/si-sentinel/issues/2026-10-21/</id>
+    <published>2026-10-21T08:00:00-04:00</published>
+    <updated>2026-10-21T08:21:34-04:00</updated>
+    <summary type="html">&lt;p&gt;SpaceX reported third-quarter revenue of $14.6 billion, up 161%, with its super intelligence (SI) business now its largest segment, and Elon Musk wrote that $1 trillion in revenue in 2028 is &quot;no longer impossible.&quot; Dario Amodei published a long defense of Anthropic&#x27;s safety record against a critique from Nathan Calvin of the advocacy group Encode, conceding some mistakes while listing nine decisions he said cost the company commercially. Sam Altman welcomed Aleksander Madry back to OpenAI to work on safety and security.&lt;/p&gt;&lt;p&gt;Mistral shipped its Voxtral 3 voice models, Nvidia open-sourced the Flora robotics data models, OpenAI bought the drug-development startup Orchestra Bio and Vercel made any agent harness crash-proof. In The Leaderboards, closed models hold first place on all seven capability boards while open-weight models fill OpenRouter&#x27;s five busiest slots. Tesla reports third-quarter results after today&#x27;s close. Twenty-six of the 46 builders posted; Musk posted 22 times.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Tuesday, October 20, 2026: Shares for children, supervisors for agents</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-20/"/>
