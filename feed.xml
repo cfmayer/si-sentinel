@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/si-sentinel/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/"/>
   <id>https://cfmayer.github.io/si-sentinel/</id>
-  <updated>2026-10-28T08:32:49-04:00</updated>
+  <updated>2026-10-29T08:21:31-04:00</updated>
   <author><name>The SI Sentinel</name></author>
   <icon>https://cfmayer.github.io/si-sentinel/apple-touch-icon.png</icon>
   <rights>The SI Sentinel is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased; emoji in quoted posts are omitted.</rights>
+  <entry>
+    <title>Thursday, October 29, 2026: Google ships Gemini 4 Carbon two weeks after Argon, and Alphabet and Microsoft post AI-driven quarters</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-29/"/>
+    <link rel="enclosure" type="application/pdf" length="1220546" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-29/si-sentinel-2026-10-29.pdf"/>
+    <id>https://cfmayer.github.io/si-sentinel/issues/2026-10-29/</id>
+    <published>2026-10-29T08:00:00-04:00</published>
+    <updated>2026-10-29T08:21:31-04:00</updated>
+    <summary type="html">&lt;p&gt;Google introduced Gemini 4 Carbon on Wednesday, a frontier model that tops the new version of the Artificial Analysis Intelligence Index and leads on cybersecurity tests. Hours later Alphabet reported a half-trillion-dollar annual revenue run rate and 103% growth at Google Cloud. Microsoft followed with $92.3 billion in quarterly revenue, Azure up 48% and a $677 billion backlog of commercial contracts.&lt;/p&gt;&lt;p&gt;Elsewhere, GitHub launched cheaper Copilot Fusion models, Vercel opened an agent-ready build service, and Suhail Doshi unveiled Particle, a developer-focused model company. Shopify put Shop Pay inside AI agents, including Grok Bot, and Cartesia showed a byte-level model that skips the tokenizer. SpaceX finished static fires on the Starship that Elon Musk says will make the first ship tower catch.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Wednesday, October 28, 2026: Google&#x27;s Genie 4 builds worlds that talk back, and Anduril bets on an American laptop</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-28/"/>
