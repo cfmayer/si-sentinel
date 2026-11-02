@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/si-sentinel/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/"/>
   <id>https://cfmayer.github.io/si-sentinel/</id>
-  <updated>2026-10-30T08:30:56-04:00</updated>
+  <updated>2026-11-02T08:32:45-05:00</updated>
   <author><name>The SI Sentinel</name></author>
   <icon>https://cfmayer.github.io/si-sentinel/apple-touch-icon.png</icon>
   <rights>The SI Sentinel is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased; emoji in quoted posts are omitted.</rights>
+  <entry>
+    <title>Monday, November 2, 2026: Google runs a model in orbit, Musk tallies Colossus 2&#x27;s Blackwells, and builders argue over who gets to own intelligence</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-02/"/>
+    <link rel="enclosure" type="application/pdf" length="1588828" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-02/si-sentinel-2026-11-02.pdf"/>
+    <id>https://cfmayer.github.io/si-sentinel/issues/2026-11-02/</id>
+    <published>2026-11-02T08:00:00-05:00</published>
+    <updated>2026-11-02T08:32:45-05:00</updated>
+    <summary type="html">&lt;p&gt;Google&#x27;s Project Suncatcher satellite booted a Tensor Processing Unit in orbit and sent back its first answer, a haiku. Elon Musk said Colossus 2 will hold about 1.2 million Nvidia Blackwell chips by year end and laid out two new clusters, Gun Range and Spam. SemiAnalysis released GDPx, a hard new agent benchmark on which the best model scores 12%, and Sundar Pichai pointed to the cost line for Gemini 4 Carbon.&lt;/p&gt;&lt;p&gt;A rule in Claude Code that blocks remakes of existing games set off a weekend argument about control. Yann LeCun called Anthropic &quot;insufferably moralizing,&quot; Tim Sweeney said &quot;open local models are the only solution,&quot; and Guillermo Rauch wrote &quot;Own your intelligence.&quot; On the work front, Uncle Bob Martin and Aaron Levie said the job is now to lead agents, and Andrej Karpathy built a Hacker News video site in about two hours.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Friday, October 30, 2026: Mistral opens its trillion-parameter model, Cohere raises Canada&#x27;s largest round, and a tampered extension reaches Cursor users</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-10-30/"/>
