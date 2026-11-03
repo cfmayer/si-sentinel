@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The SI Sentinel, Tuesday, November 3, 2026: Musk does the radiator math for orbital compute, a frontier model edits another model&#x27;s weights, and Muse pays $300,000 for one bug</title>
+<meta name="description" content="Elon Musk said cooling chips is &quot;much easier&quot; in space and put numbers on it: about 1,300 watts per square meter from an aluminum radiator, against about 250 from solar panels. MIT researchers had…">
+<link rel="canonical" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-03/">
+<meta name="color-scheme" content="light dark">
+<script>(function(){var d=document.documentElement,t=null;try{t=localStorage.getItem('theme')}catch(e){}if(t!=='light'&&t!=='dark'){t=window.matchMedia&&matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}d.setAttribute('data-theme',t)})();</script>
+<meta name="theme-color" content="#1c3a63">
+<link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+<link rel="icon" href="../../favicon.ico" sizes="32x32">
+<link rel="apple-touch-icon" href="../../apple-touch-icon.png">
+<link rel="manifest" href="../../site.webmanifest">
+<link rel="alternate" type="application/atom+xml" title="The SI Sentinel (Atom feed)" href="../../feed.xml">
+<link rel="preload" href="../../assets/fonts/source-serif-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="../../assets/fonts/cinzel-decorative-900.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="../../assets/site.css?v=c9c90923">
+<meta property="og:site_name" content="The SI Sentinel">
+<meta property="og:title" content="The SI Sentinel, Tuesday, November 3, 2026: Musk does the radiator math for orbital compute, a frontier model edits another model&#x27;s weights, and Muse pays $300,000 for one bug">
+<meta property="og:description" content="Elon Musk said cooling chips is &quot;much easier&quot; in space and put numbers on it: about 1,300 watts per square meter from an aluminum radiator, against about 250 from solar panels. MIT researchers had…">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://cfmayer.github.io/si-sentinel/issues/2026-11-03/">
+<meta property="og:image" content="https://cfmayer.github.io/si-sentinel/og-card.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="The SI Sentinel masthead">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2026-11-03T08:00:00-05:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The SI Sentinel, Tuesday, November 3, 2026: Musk does the radiator math for orbital compute, a frontier model edits another model&#x27;s weights, and Muse pays $300,000 for one bug">
+<meta name="twitter:description" content="Elon Musk said cooling chips is &quot;much easier&quot; in space and put numbers on it: about 1,300 watts per square meter from an aluminum radiator, against about 250 from solar panels. MIT researchers had…">
+<meta name="twitter:image" content="https://cfmayer.github.io/si-sentinel/og-card.png">
+<meta name="twitter:image:alt" content="The SI Sentinel masthead">
+</head>
+<body>
+<a class="skip" href="#main">Skip to main content</a>
+<header class="site-header wrap">
+  <div class="ears"><span></span><span></span></div>
+  <h1 class="masthead"><a href="../../" aria-label="The SI Sentinel, home">The <span class="si">SI</span> Sentinel</a></h1>
+  <p class="sub">Weekday briefing on builders shaping super intelligence</p>
+  <div class="navbar"><nav class="site-nav" aria-label="Site"><ul><li><a href="../../">Latest issue</a></li><li><a href="../../archive/">Archive</a></li><li><a href="../../about/">About</a></li><li><a href="../../feed.xml">Feed</a></li></ul></nav>
+  <button type="button" class="theme-toggle" aria-pressed="false" hidden><span class="tt-icon" aria-hidden="true"></span><span class="tt-label">Dark mode</span></button></div>
+</header>
+<main id="main" class="wrap" tabindex="-1">
+<div class="dateline">
+  <span class="date"><time datetime="2026-11-03">Tuesday, November 3, 2026</time></span>
+  <a class="pdf" href="../../issues/2026-11-03/si-sentinel-2026-11-03.pdf" download>Download PDF<span class="pdf-size"> (843 KB)</span><span class="visually-hidden"> of the Tuesday, November 3, 2026 print edition</span></a>
+</div>
+<nav class="toc" aria-label="In this issue"><h2 class="toc-h">In this issue</h2><ol><li><a href="#lede">The Morning Picture</a></li><li><a href="#orbital-compute"><span class=num>I</span> Orbital Compute</a></li><li><a href="#models-and-research"><span class=num>II</span> Models and Research</a></li><li><a href="#work-and-agents"><span class=num>III</span> Work and Agents</a></li><li><a href="#security-and-infrastructure"><span class=num>IV</span> Security and Infrastructure</a></li><li><a href="#platforms"><span class=num>V</span> Platforms</a></li></ol></nav>
+<div class="issue" id="issue">
+
+
+
+<section class="lede" id="lede">
+<div>
+<div class="kicker">The Morning Picture</div>
+<h2>Musk does the radiator math for orbital compute, a frontier model edits another model's weights, and Muse pays $300,000 for one bug</h2>
+<div class="colset lede-set"><div class="cg n3"><p>Elon Musk said cooling chips is "much easier" in space and put numbers on it: about 1,300 watts per square meter from an aluminum radiator, against about 250 from solar panels. MIT researchers had GPT-6 Astra edit 0.016% of a small model's weights and watched its math scores jump, and Tobi Lütke called it "exactly as crazy as it seems." Mistral published the technical report for its now open-weight Mistral Large 4.</p><p>On security, David Singleton said Muse has paid more than $1 million in bug bounties, and supermarket freezers in at least seven European countries were hacked. OpenAI described Pando, a new Git backend for its agent-heavy monorepo. David Heinemeier Hansson warned that agents will be hard on "cantankerous" programmers, and in Tokyo, Tim Sweeney defended Epic's AI-first plan for Unreal Engine 6.</p></div></div>
+</div>
+</section>
+
+<article class="article sec-blue" id="orbital-compute">
+<div class="opener">
+<div class="section-tag">I · Orbital Compute</div>
+<h2>"Much easier to cool in space," Musk says, with numbers</h2>
+<p class="dek">A Sequoia partner described a passive radiator loop for orbital data centers. Musk replied with the heat budget and said super intelligence compute will "round up to 100%" in space.</p>
+<div class="figs">
+<div><b>~1,300</b><span>Watts per square meter Musk says an aluminum radiator can shed facing away from the Sun</span></div>
+<div><b>~250</b><span>Watts per square meter solar panels generate, by his figures</span></div>
+<div><b>~5x</b><span>Solar panel area he expects relative to radiator area</span></div>
+</div>
+</div>
+<div class="colset stories"><div class="story"><div class="cg n3"><h3>Elon Musk <span class="who">@elonmusk · CEO, SpaceX and Tesla</span></h3><p>Shaun Maguire, a partner at Sequoia Capital with a physics doctorate from Caltech, <a href="https://x.com/shaunmmaguire/status/2117325447600193900">argued Monday</a> that once Starship can lift "huge amounts of mass into space cheaply, it is genuinely easier to cool things in space." His design is passive: an aluminum structure with a working fluid such as ammonia that boils near the chips and circulates heat to the radiator, which sheds it as black-body radiation. "Black body radiation goes like temperature to the 4th power so the hotter you can run chips and hotter you can get the working fluid the better you can shed heat," he wrote. Musk answered at 10:43pm EST:</p><div class="inq">
+<blockquote>"Yeah, much easier to cool in space. ~1300 W/m^2 is easily achievable for an aluminum radiator pointed away from the Sun, as it is mostly just seeing cosmic background radiation at ~3 degrees above absolute zero! Solar panels generate ~250 W/m^2, so you should expect them to have ~5 times the area of the radiator. Most of the mass of the satellite is solar panels."</blockquote>
+<div class="attr">Elon Musk · @elonmusk · 10:43pm EST · <a aria-label="post, Elon Musk on X" href="https://x.com/elonmusk/status/2117462581371719779">post</a></div>
+</div><p>W/m^2 is watts per square meter. To a user who noted that radiative heat transfer "grows gigantically" at GPU temperatures, he <a href="https://x.com/elonmusk/status/2117466364407586921">added</a>: "Yup, T^4 scales super fast."</p><figure class="photo" data-photo-fit="1.10">
+<a class="zoom" href="../../img/3b81ee573d1b-1600.jpg"><picture><source sizes="(min-width: 1100px) 340px, (min-width: 700px) 46vw, calc(100vw - 2.75rem)" srcset="../../img/3b81ee573d1b-480.webp 480w, ../../img/3b81ee573d1b-800.webp 800w, ../../img/3b81ee573d1b-1200.webp 1200w, ../../img/3b81ee573d1b-1600.webp 1600w" type="image/webp"/><img alt="The International Space Station in December 2002, after Space Shuttle Endeavour's crew installed the P1 truss, which added three radiators to the station's thermal control system" decoding="async" height="747" loading="lazy" sizes="(min-width: 1100px) 340px, (min-width: 700px) 46vw, calc(100vw - 2.75rem)" src="../../img/3b81ee573d1b-1200.jpg" srcset="../../img/3b81ee573d1b-480.jpg 480w, ../../img/3b81ee573d1b-800.jpg 800w, ../../img/3b81ee573d1b-1200.jpg 1200w, ../../img/3b81ee573d1b-1600.jpg 1600w" width="1200"/></picture><span class="zoom-hint web-extra">View full size</span></a>
+<figcaption id="cap-1">The International Space Station in December 2002, after Space Shuttle Endeavour's crew installed the P1 truss, which added three radiators to the station's thermal control system. The white panels are radiators; the gold wings are solar arrays.<span class="credit">Photo: NASA (STS-113, S113-E-05448) · Public domain</span></figcaption>
+</figure></div></div><div class="story sep"><div class="cg n3"><h3 class="coltop">Shaun Maguire and the long view</h3><p>Earlier Monday, Maguire <a href="https://x.com/shaunmmaguire/status/2117262255603798073">wrote</a> that "SpaceX is the low-cost producer for compute (initially terrestrial which becomes orbital)" and predicted it can turn on new data centers "2-3 years faster than its competitors." Musk replied at 10:08am EST: <a href="https://x.com/elonmusk/status/2117272748112154651">"Future super intelligence compute will obviously be overwhelmingly in space. By 'overwhelmingly', I mean that it will round up to 100%!"</a> When Maguire <a href="https://x.com/shaunmmaguire/status/2117275330180448478">promised</a> "a systems level analysis of orbital compute over the next week or two," saying "Almost all SI compute will be in space," Musk wrote <a href="https://x.com/elonmusk/status/2117278493369135588">"Absolutely."</a> SI is super intelligence.</p></div></div></div>
+</article>
+
+<article class="article sec-amber" id="models-and-research">
+<div class="opener">
+<div class="section-tag">II · Models and Research</div>
+<h2>A frontier model rewrites a small model's weights, and Mistral opens its largest model</h2>
+<p class="dek">MIT researchers call it Weight-Space Programming. Mistral released the report behind Mistral Large 4, and a fine-tune from Suhail Doshi's Particle reached a data-analytics frontier.</p>
+<div class="figs">
+<div><b>0.016%</b><span>Share of Qwen3.5-0.8B's weights GPT-6 Astra changed, with no training</span></div>
+<div><b>7.9→48.1%</b><span>The edited model's MATH-500 score, before and after</span></div>
+<div><b>40 of 43</b><span>Questions Particle-1 passed on Plotly's data-analytics exam</span></div>
+</div>
+</div>
+<div class="colset stories"><div class="story"><div class="cg n3"><h3>Tobi Lütke <span class="who">@tobi · CEO, Shopify</span></h3><p>Rikiya Takehi, a first-year doctoral student at MIT's Computer Science and Artificial Intelligence Laboratory, <a aria-label="posted: @rikiyatakehi on X" href="https://x.com/rikiyatakehi/status/2117313742891327994">posted</a> Monday: "We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math. It directly changed only 0.016% of weights, fixing 0.8B's reasoning loops &amp; improving math up to 6x and even instruction following 3x, without gradients or training." Lütke quoted it at 6:30pm EST: <a href="https://x.com/tobi/status/2117399082050163090">"Yea. this is exactly as crazy as it seems."</a></p><p>The <a href="https://rikiyat.github.io/blog/weight-space-programming/">paper</a>, by Takehi, Jayden Teoh, Alex Zhang and Omar Khattab, says Astra traced Qwen's thinking loops to one direction in layers 15 and 19 and removed it from 131,072 weights. MATH-500 rose from 7.9% to 48.1%, GSM8K from 13.8% to 67.1% and the IFEval instruction-following test from 21.0% to 62.3%. Astra also identified what small networks were trained to do just by reading their raw weights. Tim Sweeney (@TimSweeneyEpic), chief executive of Epic Games, <a aria-label="replied: @TimSweeneyEpic on X" href="https://x.com/TimSweeneyEpic/status/2117459263899795598">replied</a> to a stunned reader: "Next phase, they'll just read the binary file and 'see the matrix' as Neo did and we other humans cannot."</p></div></div><div class="story sep"><div class="cg n3"><h3>Guillaume Lample <span class="who">@GuillaumeLample · Co-founder and chief scientist, Mistral AI</span></h3><p>Pierre Stock, Mistral's vice president of science, <a href="https://x.com/PierreStock/status/2117293394238013698">wrote</a>: "ML4 is now open-weight! Frontier capabilities on code agents &amp; cyber, way more efficient and compact than its Preview version three weeks ago." Lample quoted him at 1:30pm EST: <a href="https://x.com/GuillaumeLample/status/2117323497945145495">"We just released a technical report on the training of ML4."</a> Mistral Large 4 is a 1-trillion-parameter mixture-of-experts model with about 52 billion parameters active per token and a 1-million-token context, trained on 3,800 Nvidia Grace Blackwell chips in Europe, its <a href="https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B">model card</a> says. Mistral's <a href="https://mistral.ai/news/mistral-large-4-oss/">announcement</a> puts it at 48% on the Artificial Analysis Coding Agent Index, effectively tied with GLM-5.3 while using 47% fewer tokens, and 41% on Terminal-Bench 4.0.</p></div></div><div class="story sep"><div class="cg n3"><h3>Suhail Doshi <span class="who">@Suhail · Founder, Particle</span></h3><p>Plotly's co-founder <a href="https://x.com/chriddyp/status/2117343486441841078">wrote</a> that Particle's model "landed on our pareto frontier for data analytics tasks, beating out Terra-6.1 and Haiku 5.5. First time a new player has landed on our frontier in years." Doshi quoted it at 3:10pm EST: <a href="https://x.com/Suhail/status/2117348559892967440">"Pareto frontier on data analytics. Honestly feels like a full circle moment."</a> He founded the analytics company Mixpanel. Plotly's <a href="https://plotly.com/blog/particle-1-plotly-data-analytics-bench/">write-up</a> says Particle-1, a reinforcement-learning fine-tune of DeepSeek V4.1 Flash, passed 40 of 43 questions for $0.35, tying GPT-6.1 Terra for about a quarter of the cost. Asked about cyber models, Doshi <a aria-label="replied: @Suhail on X" href="https://x.com/Suhail/status/2117257430807847070">replied</a> "Soon."</p><div class="quickhit">
+<div class="kicker">Quick Hit</div>
+<p><b>François Chollet</b> (@fchollet), co-founder of Ndea and creator of Keras, at 12:59pm EST Monday: <a href="https://x.com/fchollet/status/2117315680119013865">"The most grating aspect of LLM writing is that it tries to turn every single sentence into a punchline, a witty slogan, with no regard for which sentences need emphasis and which ones don't."</a> LLM stands for large language model.</p>
+</div></div></div></div>
+</article>
+
+<article class="article sec-red" id="work-and-agents">
+<div class="opener">
+<div class="section-tag">III · Work and Agents</div>
+<h2>Agents raise the ceiling, and the people who manage them stay accountable</h2>
+<p class="dek">Levie said the gap between frontier users and everyone else has never been wider. Heinemeier Hansson and Uncle Bob Martin talked about who thrives and who answers for the work.</p>
+<div class="figs">
+<div><b>30–50%</b><span>Best productivity gains from AI a few years ago, by Levie's estimate</span></div>
+<div><b>5–10x</b><span>The upper limit now, "depending on the field," he wrote</span></div>
+<div><b>3</b><span>Round-the-clock agents Doshi plans: security, product data and personal</span></div>
+</div>
+</div>
+<div class="colset stories"><div class="story"><div class="cg n3"><h3>David Heinemeier Hansson <span class="who">@dhh · Creator, Ruby on Rails and Omarchy</span></h3><div class="inq">
+<blockquote>"The age of agents is going to be amazing for most programmers, but it'll be hard times for the cantankerous ones. Specialized knowledge and rare skills will no longer offer immunity for those who are a pain to work with. Best learn some basic people skills."</blockquote>
+<div class="attr">David Heinemeier Hansson · @dhh · 8:03am EST · <a aria-label="post, David Heinemeier Hansson on X" href="https://x.com/dhh/status/2117241303704432901">post</a></div>
+</div><p>Quoting a user who argued that rudeness to agents carries over to colleagues, he <a href="https://x.com/dhh/status/2117286637126267036">wrote</a>: "How you do anything is how you do everything." Engineer Geoffrey Huntley <a href="https://x.com/GeoffreyHuntley/status/2117127384126095636">said</a> open-source codes of conduct "need to be retired; I deeply regret championing them." Heinemeier Hansson at 11:19am EST: <a href="https://x.com/dhh/status/2117290527850668121">"Amen. We never needed to codify basic decency, but in doing so created legalisticl weapons of mass coercion and usurpation. Never again."</a></p></div></div><div class="story sep"><div class="cg n3"><h3>Uncle Bob Martin <span class="who">@unclebobmartin · Author, Clean Code</span></h3><p>Asked who checks the architecture when every engineer manages language models, Martin wrote at 12:44pm EST: <a href="https://x.com/unclebobmartin/status/2117311833887637538">"The engineers check the architecture. All accountability lies with the engineers. The agents are completely unaccountable."</a> To a user who said humans will never be as smart as AI, he replied early Tuesday: <a href="https://x.com/unclebobmartin/status/2117600807998882210">"We cannot out-reason it. But we CAN out-create and out-discern it. And, in the end, we must take responsibility for everything we allow it to do."</a></p></div></div><div class="story sep"><div class="cg n3"><h3>Aaron Levie <span class="who">@levie · CEO, Box</span></h3><p>Levie wrote at 1:34am EST that <a href="https://x.com/levie/status/2117505799937577263">"the divergence in AI output weirdly may be the highest it's ever been, even though adoption is the broadest it's ever been."</a> A few years ago, a very good user in coding might get "maybe 30-50% better productivity." Now models run far longer tasks with little human help, and "the upper limits on productivity gains have gone from 30-50% to now likely 5-10X depending on the field." He expects the gap to widen "given the rate of progress we're likely to see with RSI," or recursive self-improvement.</p></div></div><div class="story sep"><div class="cg n3"><h3>Suhail Doshi <span class="who">@Suhail · Founder, Particle</span></h3><p>At 8:07pm EST: <a href="https://x.com/Suhail/status/2117423425065206248">"In a year, we will all have multiple 24/7 agents running for all facets of our personal and working lives—working proactively on our behalf. The sheer quantity of tokens computed will be staggering."</a> His own would cover security, product data analysis and his personal life, he <a href="https://x.com/Suhail/status/2117427442218582397">added</a>, and "All companies will be forced to do this to compete at the same velocity."</p><div class="quickhit">
+<div class="kicker">Quick Hit</div>
+<p><b>Paul Graham</b> (@paulg), co-founder of Y Combinator, at 6:55am EST Tuesday, replying to a prediction that the AI bubble will burst: <a href="https://x.com/paulg/status/2117586570194870376">"You can't claim both that AI is fake and that it's destroying jobs. If it were fake it wouldn't be able to."</a></p>
+</div></div></div></div>
+</article>
+
+<article class="article sec-teal" id="security-and-infrastructure">
+<div class="opener">
+<div class="section-tag">IV · Security and Infrastructure</div>
+<h2>Muse's bug bounty passes $1 million as hackers turn up Europe's supermarket freezers</h2>
+<p class="dek">Singleton laid out the worst bug Muse has paid for. OpenAI rebuilt its Git server for agents, and Vercel and Suleyman each pressed on safety.</p>
+<div class="figs">
+<div><b>$300,000</b><span>Muse's largest single bounty, for an authentication bug found before launch</span></div>
+<div><b>64</b><span>Valid findings among more than 630 Muse bounty submissions</span></div>
+<div><b>~80%</b><span>Cut in push latency after OpenAI moved its monorepo to Pando</span></div>
+</div>
+</div>
+<div class="colset stories"><div class="story"><div class="cg n3"><h3>David Singleton <span class="who">@dps · Meta Superintelligence Labs</span></h3><p>Singleton, the former chief technology officer of Stripe, posted at 9:59pm EST: <a href="https://x.com/dps/status/2117451517531959361">"We've now paid out more than $1M in @muse bug bounties. That includes $300,000 to a security researcher who found the most critical bug we've seen in Muse."</a> The program has covered Muse privately since April and publicly since its Sept. 8 launch, with "630+ submissions, 64 valid findings and ~$1.2M awarded so far," he <a href="https://x.com/dps/status/2117451519448756357">wrote</a>.</p><p>The $300,000 bug, found four months before launch, was an authentication check that "trusted a header added by a local proxy as proof a request was safe," he <a href="https://x.com/dps/status/2117451520837095699">explained</a>. A migration added a second proxy layer, so outside requests could carry that header too, exposing testers' tokens and conversations in pre-release virtual machines. Muse "shut down the whole service."</p><div class="inq">
+<blockquote>"Security reviews ask "did we build what we said?" Attackers ask "what did you forget, and what can I chain together to break in?" Any system that claims to be secure needs adversarial testing, and bug bounties are one of the best ways to do it at scale."</blockquote>
+<div class="attr">David Singleton · @dps · 9:59pm EST · <a aria-label="post, David Singleton on X" href="https://x.com/dps/status/2117451524356153711">post</a></div>
+</div><p>The program <a href="https://x.com/dps/status/2117451525731889429">pays</a> "up to $300K per report, including up to $130K for a prompt injection against a single user."</p></div></div><div class="story sep"><div class="cg n3"><h3>Elon Musk <span class="who">@elonmusk · CEO, SpaceX and Tesla</span></h3><p>Supermarket chains in Belgium, Estonia, Finland, Ireland, Luxembourg, the Netherlands and Sweden reported Monday that hackers had raised refrigerator and freezer temperatures, some to 50°C (122°F), <a href="https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack">The Guardian reported</a>, echoing an October attack in France. Musk, at 10:13am EST: <a href="https://x.com/elonmusk/status/2117273849351860272">"Literally an episode of Silicon Valley."</a></p><figure class="photo" data-photo-fit="1.10">
+<a class="zoom" href="../../img/f7947502e4ac-1280.jpg"><picture><source sizes="(min-width: 1100px) 340px, (min-width: 700px) 46vw, calc(100vw - 2.75rem)" srcset="../../img/f7947502e4ac-480.webp 480w, ../../img/f7947502e4ac-800.webp 800w, ../../img/f7947502e4ac-1200.webp 1200w, ../../img/f7947502e4ac-1280.webp 1280w" type="image/webp"/><img alt="Building 92, the visitor center on Microsoft's campus in Redmond, Washington, in June 2015" decoding="async" height="798" loading="lazy" sizes="(min-width: 1100px) 340px, (min-width: 700px) 46vw, calc(100vw - 2.75rem)" src="../../img/f7947502e4ac-1200.jpg" srcset="../../img/f7947502e4ac-480.jpg 480w, ../../img/f7947502e4ac-800.jpg 800w, ../../img/f7947502e4ac-1200.jpg 1200w, ../../img/f7947502e4ac-1280.jpg 1280w" width="1200"/></picture><span class="zoom-hint web-extra">View full size</span></a>
+<figcaption id="cap-2">Building 92, the visitor center on Microsoft's campus in Redmond, Washington, in June 2015.<span class="credit">Photo: Jiaqian AirplaneFan · <a href="https://commons.wikimedia.org/wiki/File:Building_92_of_Microsoft_Redmond_Campus_-_panoramio.jpg">CC BY 3.0 via Wikimedia Commons</a></span></figcaption>
+</figure></div></div><div class="story sep"><div class="cg n3"><h3>Mustafa Suleyman <span class="who">@mustafasuleyman · CEO, Microsoft AI</span></h3><p>At 11:11am EST, Suleyman <a href="https://x.com/mustafasuleyman/status/2117288542879805748">asked</a> for comments on Microsoft's <a href="https://microsoft.ai/code-of-conduct/">Humanist AI Code of Conduct</a>: "This summer's cyber incidents were a critical warning shot and it's important we all now pay attention to why we are building this technology and how we will ensure its aligned and contained to human interests and values." The draft says Microsoft's models must never resist being interrupted, corrected or shut down. The public consultation period "is closing in 3 weeks," he wrote.</p></div></div><div class="story sep"><div class="cg n3"><h3>Greg Brockman <span class="who">@gdb · President, OpenAI</span></h3><p>OpenAI <a href="https://openai.com/index/scaling-git-at-openai/">described Pando</a>, a Git backend for its monorepo written in Rust. It keeps consistency per branch, cut push latency by about 80% and now serves nearly a petabyte of Git data a day. One engineer designed the core and Codex agents built it in 10 weeks. Brockman at 8:54pm EST: <a href="https://x.com/gdb/status/2117435285021810921">"We took the hard road of continuing to use Git, which means we could enable Pando with no change to devex. Considering providing this to others."</a> Devex is developer experience.</p></div></div><div class="story sep"><div class="cg n3"><h3>Guillermo Rauch <span class="who">@rauchg · CEO, Vercel</span></h3><p>Vercel now blocks known malicious npm packages before their install scripts run. Npm is the main JavaScript package registry. Rauch, at 1:48pm EST: <a href="https://x.com/rauchg/status/2117328043228471552">"Securing the supply chain is one of our top priorities."</a></p><div class="quickhit">
+<div class="kicker">Quick Hit</div>
+<p><b>Tobi Lütke</b> (@tobi), quoting Shopify's reintroduced WebMCP tools at 1:30pm EST Monday: <a href="https://x.com/tobi/status/2117323545164554480">"Webmcp is so much better then browseruse."</a> WebMCP lets a web page offer agents its own tools through the Model Context Protocol, instead of making them click through it. Rauch, on a terminal library that added it: <a href="https://x.com/rauchg/status/2117419661654720671">"So bullish on WebMCP."</a></p>
+</div></div></div></div>
+</article>
+
+<article class="article sec-green" id="platforms">
+<div class="opener">
+<div class="section-tag">V · Platforms</div>
+<h2>Sweeney defends an AI-first Unreal Engine 6, and carriers brace for a SpaceX phone service</h2>
+<p class="dek">At Unreal Fest Tokyo, Epic said the next engine drops Blueprints for Verse. Musk showed off Grok Bot making phone calls, and the Washington Post reported SpaceX talks over Boost Mobile.</p>
+<div class="figs">
+<div><b>Late 2027</b><span>Target for Unreal Engine 6 Early Access</span></div>
+<div><b>1.5–4x</b><span>Productivity gains Epic says AI already brings its own teams</span></div>
+<div><b>7.38M</b><span>Wireless subscribers at EchoStar, Boost Mobile's parent</span></div>
+</div>
+</div>
+<div class="colset stories"><div class="story"><div class="cg n3"><h3>Tim Sweeney <span class="who">@TimSweeneyEpic · CEO, Epic Games</span></h3><p>At Unreal Fest Tokyo, Epic said Unreal Engine 6, or UE6, will drop Actors, Blueprints and the C++ Gameplay Framework in favor of its Verse language and Scene Graph, with AI tools to convert old projects, <a href="https://vgtimes.com/tech-and-hardware/173317-will-game-developers-have-to-learn-new-tools-epic-is-planning-a-major-overhaul-for-unreal-engine-6.html">VGTimes reported</a>. Sweeney apologized to developers for the disruption. A developer asked who will pay for all the AI. Sweeney answered at 7:03am EST:</p><div class="inq">
+<blockquote>"You can use any model or no model, and work with the models and tools of your choice without Epic getting in between. Right now only the leading edge models are really useful for 3D and Verse. By early next year some of the open models should be pretty good too."</blockquote>
+<div class="attr">Tim Sweeney · @TimSweeneyEpic · 7:03am EST · <a aria-label="post, Tim Sweeney on X" href="https://x.com/TimSweeneyEpic/status/2117588511792717964">post</a></div>
+</div><p>To a fan who hoped AI could make game development easier, he <a href="https://x.com/TimSweeneyEpic/status/2117559449208627240">wrote</a>: "Not just 50% easier or more productive, but a multiple."</p><p>A game artist said developers at several big studios use generative AI on Steam without disclosing it. Sweeney <a href="https://x.com/TimSweeneyEpic/status/2117521807297409461">called</a> Steam's disclosure question "a cruel psychological test imposed on developers. Lie on the question and thrive, or disclose and have your studio's livelihood crushed by a cancel mob."</p></div></div><div class="story sep"><div class="cg n3"><h3>SpaceX and the carriers</h3><p>The Washington Post <a href="https://www.washingtonpost.com/technology/2026/11/02/inside-elon-musks-plan-upend-wireless-phone-industry/">reported</a> Monday that SpaceX is in talks to buy EchoStar's Boost Mobile or use its network after Verizon, AT&amp;T and T-Mobile turned down Musk's requests for access. When the Post wrote that carriers worry Musk "might threaten their industry," Sweeney <a aria-label="replied: @TimSweeneyEpic on X" href="https://x.com/TimSweeneyEpic/status/2117467814462398472">replied</a> at 11:04pm EST: "The word you are looking for is 'competing with'." On reports that carriers want to slow SpaceX down: <a href="https://x.com/TimSweeneyEpic/status/2117463729038340111">"Maybe they should speed themselves up instead?"</a></p></div></div><div class="story sep"><div class="cg n3"><h3>Elon Musk <span class="who">@elonmusk · CEO, SpaceX and Tesla</span></h3><p>Musk posted <a href="https://x.com/elonmusk/status/2117422818648555595">"Grok @Bot improvements"</a> at 8:05pm EST, quoting a video of new features: shopping cards, product pages, order tracking, payments, custom modes, shared Team Bots, connector requests in Slack and contacts in Vault. He also quoted a Tesla owner whose bot <a href="https://x.com/elonmusk/status/2117463822332314036">called Progressive</a> to ask about glass coverage "without me ever having to talk to a person."</p><p>Twice he wrote <a href="https://x.com/elonmusk/status/2117252866503290905">"Starlink saves lives,"</a> once for a hiker stranded in Colorado's mountains whose rescuers stayed in touch through Starlink overnight, and <a href="https://x.com/elonmusk/status/2117479668768981376">again</a> for five sailors from the sinking boat Karolina Viking, who shared their location through Starlink.</p></div></div></div>
+</article>
+<div class="web-fillers"><aside class="wire-brief" data-prefer="Models and Research" data-wire-id="2"><div class="wb-kicker">On the wire</div><p><b>Cheaper frontier.</b> Particle-1 tied GPT-6.1 Terra on Plotly's exam at $0.35 a run, about a quarter of the cost, per <a href="https://plotly.com/blog/particle-1-plotly-data-analytics-bench/">Plotly</a>.</p></aside><aside class="wire-brief" data-prefer="Security and Infrastructure" data-wire-id="3"><div class="wb-kicker">On the wire</div><p><b>Agents as targets.</b> Muse pays up to $130,000 for a prompt injection against a single user, per <a href="https://x.com/dps/status/2117451525731889429">David Singleton</a>.</p></aside><aside class="fbox fb-numbers" data-prefer="Platforms" data-wire-id="0"><div class="fb-kicker">By the numbers</div><div class="fb-row"><div class="fb-fig">131,072</div><div class="fb-lbl">Weights GPT-6 Astra edited in Qwen3.5-0.8B, per the <a href="https://rikiyat.github.io/blog/weight-space-programming/">Weight-Space Programming</a> paper</div></div><div class="fb-row"><div class="fb-fig">3,800</div><div class="fb-lbl">Nvidia Grace Blackwell chips that trained Mistral Large 4, per its <a href="https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B">model card</a></div></div><div class="fb-row"><div class="fb-fig">$1.2M</div><div class="fb-lbl">Muse bug bounties awarded so far, per <a href="https://x.com/dps/status/2117451519448756357">David Singleton</a></div></div></aside><aside class="fbox fb-coming" data-prefer="Platforms" data-wire-id="1"><div class="fb-kicker">Coming up</div><ol><li><span class="fb-date">Next 2 weeks</span> Shaun Maguire's promised <a href="https://x.com/shaunmmaguire/status/2117275330180448478">systems analysis</a> of orbital compute</li><li><span class="fb-date">Within 3 weeks</span> Public consultation on Microsoft's <a href="https://x.com/mustafasuleyman/status/2117288542879805748">Humanist AI Code of Conduct</a> closes</li><li><span class="fb-date">Early 2027</span> Open models "should be pretty good" for 3D and Verse, per <a href="https://x.com/TimSweeneyEpic/status/2117588511792717964">Tim Sweeney</a></li><li><span class="fb-date">Late 2027</span> Unreal Engine 6 Early Access, per <a href="https://vgtimes.com/tech-and-hardware/173317-will-game-developers-have-to-learn-new-tools-epic-is-planning-a-major-overhaul-for-unreal-engine-6.html">VGTimes</a></li></ol></aside></div><div class="endpack">
+<section class="bottom take-sources solo">
+
+<div class="side-ledger">
+<h2>On the beat</h2>
+<p class="lbl">Posted · 22</p>
+<p>Elon Musk, Tim Sweeney, David Heinemeier Hansson, Uncle Bob Martin, Guillermo Rauch, Suhail Doshi, Paul Graham, Palmer Luckey, Tobi Lütke, David Singleton, Aaron Levie, Greg Brockman, Andrej Karpathy, Vitalik Buterin, François Chollet, Mustafa Suleyman, Guillaume Lample, Alexandr Wang, Kevin Weil, Joe Gebbia, Michael Dell, Kanjun Qiu.</p>
+<p class="lbl">Silent · 28</p>
+<p>Marc Andreessen, Jensen Huang, Ashok Elluswamy, Sam Altman, Demis Hassabis, Dario Amodei, John Carmack, Patrick Collison, Yann LeCun, Satya Nadella, Jeff Dean, Fei-Fei Li, Andrew Ng, Michael Truell, Tom Brown, Clément Delangue, Jim Fan, Mira Murati, Mark Zuckerberg, Noam Brown, Ilya Sutskever, Lisa Su, Sundar Pichai, Nat Friedman, Arthur Mensch, Mark Chen, Aidan Gomez, Albert Gu.</p>
+<p>The list stands at 50.</p>
+</div>
+</section>
+
+</div>
+<div class="issue-endmatter"><section class="end-take" id="takeaways"><div class="take">
+<h2>Takeaways</h2>
+<ol>
+<li>The case for orbital compute now hinges on radiator math, and Musk says it works: about 1,300 watts per square meter shed, with five times that area in solar panels.</li>
+<li>Weight-Space Programming hints that frontier models can debug other networks directly, lifting a small model's math score sixfold without training.</li>
+<li>Open weights keep climbing, from Mistral Large 4 to a cheap fine-tune that reached Plotly's analytics frontier.</li>
+<li>Agents widen the gap between frontier users and everyone else, while accountability stays with the humans running them.</li>
+<li>Security is becoming the cost of the agent era, from Muse's $1 million in bounties to hacked supermarket freezers, while Epic bets Unreal Engine 6 on AI-assisted Verse.</li>
+</ol>
+</div></section><div class="colophon end-colophon">The SI Sentinel is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased; emoji in quoted posts are omitted.</div></div>
+</div>
+<div class="issue-end">
+  <a class="pdf pdf-end" href="../../issues/2026-11-03/si-sentinel-2026-11-03.pdf" download>Download the print edition (PDF, 843 KB)</a>
+  
+  <a class="archive-link" href="../../archive/">All issues in the archive</a>
+</div>
+<nav class="pager" aria-label="More issues"><a rel="prev" href="../../issues/2026-11-02/"><span class="pg-k">Previous issue</span><span class="pg-d">Monday, November 2, 2026</span></a><span></span></nav>
+</main>
+<footer class="site-footer wrap">
+  <nav class="newsroom" aria-labelledby="newsroom-h"><h2 id="newsroom-h">From the same newsroom</h2><ul><li><a href="https://cfmayer.github.io/elon-gazette/"><span class="sib-name">The <span class=si>Elon</span> Gazette</span><span class="sib-sub">Weekday briefing on what Elon Musk is saying and doing</span></a></li><li><a href="https://cfmayer.github.io/tesla-dispatch/"><span class="sib-name">The <span class=si>Tesla</span> Dispatch</span><span class="sib-sub">Weekday briefing on Tesla&#x27;s cars, autonomy, robots, energy and stock</span></a></li><li><a href="https://cfmayer.github.io/spacex-dispatch/"><span class="sib-name">The <span class=si>SpaceX</span> Dispatch</span><span class="sib-sub">Weekday briefing on SpaceX launches, Starlink, AI and the SPCX stock</span></a></li><li><a href="https://cfmayer.github.io/launch-report/"><span class="sib-name">The <span class=si>Launch</span> Report</span><span class="sib-sub">Rocket launches, reentries and the business of spaceflight, worldwide</span></a></li></ul></nav>
+  <nav class="foot-nav" aria-label="Footer"><ul><li><a href="../../">Latest issue</a></li><li><a href="../../archive/">Archive</a></li><li><a href="../../about/">About</a></li><li><a href="../../feed.xml">Feed</a></li></ul></nav>
+  <p class="fine">The SI Sentinel · Web edition. Every issue is also available as a printable PDF.</p>
+</footer>
+<script>(function(){var d=document.documentElement,b=document.querySelector('.theme-toggle');if(!b)return;function sync(){b.setAttribute('aria-pressed',d.getAttribute('data-theme')==='dark'?'true':'false')}b.hidden=false;sync();b.addEventListener('click',function(){var t=d.getAttribute('data-theme')==='dark'?'light':'dark';d.setAttribute('data-theme',t);try{localStorage.setItem('theme',t)}catch(e){}sync()});if(window.matchMedia){var m=matchMedia('(prefers-color-scheme: dark)'),f=function(e){var s=null;try{s=localStorage.getItem('theme')}catch(x){}if(!s){d.setAttribute('data-theme',e.matches?'dark':'light');sync()}};m.addEventListener?m.addEventListener('change',f):m.addListener&&m.addListener(f)}})();</script>
+</body>
+</html>
