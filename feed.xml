@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/si-sentinel/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/"/>
   <id>https://cfmayer.github.io/si-sentinel/</id>
-  <updated>2026-11-03T08:23:35-05:00</updated>
+  <updated>2026-11-04T08:17:24-05:00</updated>
   <author><name>The SI Sentinel</name></author>
   <icon>https://cfmayer.github.io/si-sentinel/apple-touch-icon.png</icon>
   <rights>The SI Sentinel is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased; emoji in quoted posts are omitted.</rights>
+  <entry>
+    <title>Wednesday, November 4, 2026: Altman says people must stay in control of the future, Musk adds to the list of AI bottlenecks, and Gemini 4 Carbon takes the top of two leaderboards</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-04/"/>
+    <link rel="enclosure" type="application/pdf" length="833810" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-04/si-sentinel-2026-11-04.pdf"/>
+    <id>https://cfmayer.github.io/si-sentinel/issues/2026-11-04/</id>
+    <published>2026-11-04T08:00:00-05:00</published>
+    <updated>2026-11-04T08:17:24-05:00</updated>
+    <summary type="html">&lt;p&gt;Sam Altman wrote that people &quot;should not cede control of the future to superintelligence,&quot; borrowing a phrase from a 2024 essay by Anthropic&#x27;s Dario Amodei, and François Chollet co-signed. Altman also renamed himself &quot;Ram Altman&quot; on X after his remark about idle computer memory went viral. Elon Musk said the coming shortage is not only electricity but &quot;electrical equipment, cooling, networking and batteries.&quot;&lt;/p&gt;&lt;p&gt;Vercel opened its security agent to the public, and Guillermo Rauch called it &quot;astonishingly effective.&quot; Tim Sweeney said Epic will convert Fortnite to test its AI-assisted path to Unreal Engine 6. In the weekly Leaderboards, Google&#x27;s Gemini 4 Carbon now leads LMArena&#x27;s Text board and the Artificial Analysis index. Closed models hold first place on every capability board, while open-weight models hold four of OpenRouter&#x27;s five busiest slots.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Tuesday, November 3, 2026: Musk does the radiator math for orbital compute, a frontier model edits another model&#x27;s weights, and Muse pays $300,000 for one bug</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-03/"/>
