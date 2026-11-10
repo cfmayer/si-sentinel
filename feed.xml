@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/si-sentinel/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/"/>
   <id>https://cfmayer.github.io/si-sentinel/</id>
-  <updated>2026-11-09T08:24:42-05:00</updated>
+  <updated>2026-11-10T08:19:03-05:00</updated>
   <author><name>The SI Sentinel</name></author>
   <icon>https://cfmayer.github.io/si-sentinel/apple-touch-icon.png</icon>
   <rights>The SI Sentinel is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased; emoji in quoted posts are omitted.</rights>
+  <entry>
+    <title>Tuesday, November 10, 2026: Meta goes small with Muse Ember, Anthropic ships Fable 5.2, and Musk says Grok 4.8 is built on a rewritten stack</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-10/"/>
+    <link rel="enclosure" type="application/pdf" length="3250369" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-10/si-sentinel-2026-11-10.pdf"/>
+    <id>https://cfmayer.github.io/si-sentinel/issues/2026-11-10/</id>
+    <published>2026-11-10T08:00:00-05:00</published>
+    <updated>2026-11-10T08:19:03-05:00</updated>
+    <summary type="html">&lt;p&gt;Meta released Muse Ember, its smallest and cheapest model, and Mark Zuckerberg and Alexandr Wang pointed to independent boards that put it on the cost-per-task frontier; by evening it was on Google Cloud. Anthropic released Claude Fable 5.2, which Guillermo Rauch called &quot;astonishingly brilliant,&quot; while Suhail Doshi objected that Anthropic deliberately held back its skill at accelerator kernel work.&lt;/p&gt;&lt;p&gt;Early Tuesday Elon Musk said xAI&#x27;s team has dumped JAX and rewritten its training and inference stack in C and C++, that Grok 4.8 is now in reinforcement learning, and that a soft rollout to Grok Bot users comes later this week. Google added two eighth-generation Tensor Processing Unit (TPU) systems, David Heinemeier Hansson turned a pair of Nvidia DGX Sparks into Omarchy desktops, and Uncle Bob Martin took his first Cybercab ride.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Monday, November 9, 2026: Starship goes for a double catch, Cybertruck makes way for Cybercab, and Richard Sutton reopens the scaling argument</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-09/"/>
