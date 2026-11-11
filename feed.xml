@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/si-sentinel/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/"/>
   <id>https://cfmayer.github.io/si-sentinel/</id>
-  <updated>2026-11-10T08:19:03-05:00</updated>
+  <updated>2026-11-11T08:28:40-05:00</updated>
   <author><name>The SI Sentinel</name></author>
   <icon>https://cfmayer.github.io/si-sentinel/apple-touch-icon.png</icon>
   <rights>The SI Sentinel is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased; emoji in quoted posts are omitted.</rights>
+  <entry>
+    <title>Wednesday, November 11, 2026: Google opens Gemini 4 Carbon to all paying users, Stripe closes its OpenRouter deal, and builders argue over who checks the agents&#x27; work</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-11/"/>
+    <link rel="enclosure" type="application/pdf" length="962035" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-11/si-sentinel-2026-11-11.pdf"/>
+    <id>https://cfmayer.github.io/si-sentinel/issues/2026-11-11/</id>
+    <published>2026-11-11T08:00:00-05:00</published>
+    <updated>2026-11-11T08:28:40-05:00</updated>
+    <summary type="html">&lt;p&gt;Two weeks after a limited release to cyber defenders, Google made Gemini 4 Carbon available to paying developers, businesses and Ultra subscribers. Sundar Pichai showed off its most striking job: agents that generated more than six million lines of machine-checked proofs about the code behind the Signal protocol. Demis Hassabis had it rebuild his 1990s game Theme Park.&lt;/p&gt;&lt;p&gt;Uncle Bob Martin spent Tuesday arguing that agents are powerful but &quot;ultimately irresponsible,&quot; so people must test and verify their work. Aaron Levie predicted that swarms of agents are the next jump in output, and Guillermo Rauch said Vercel&#x27;s security agent found 57,897 vulnerabilities in under a week. Stripe closed its OpenRouter purchase, Nvidia opened its GR00T 2 robot model, and Elon Musk said SpaceX ordered solar-cell factory gear for Starmind satellites. In the weekly Leaderboards, Anthropic&#x27;s Claude Fable 5.2 takes three boards, and newly published weights make Kimi K3.1 Pro the strongest open model on three more.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Tuesday, November 10, 2026: Meta goes small with Muse Ember, Anthropic ships Fable 5.2, and Musk says Grok 4.8 is built on a rewritten stack</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-10/"/>
