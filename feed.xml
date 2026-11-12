@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/si-sentinel/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/"/>
   <id>https://cfmayer.github.io/si-sentinel/</id>
-  <updated>2026-11-11T08:28:40-05:00</updated>
+  <updated>2026-11-12T08:16:16-05:00</updated>
   <author><name>The SI Sentinel</name></author>
   <icon>https://cfmayer.github.io/si-sentinel/apple-touch-icon.png</icon>
   <rights>The SI Sentinel is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased; emoji in quoted posts are omitted.</rights>
+  <entry>
+    <title>Thursday, November 12, 2026: Builders rally behind Jensen Huang as Nvidia&#x27;s board weighs his future; Google ships AlphaGenome 2 and a model that only decides</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-12/"/>
+    <link rel="enclosure" type="application/pdf" length="700537" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-12/si-sentinel-2026-11-12.pdf"/>
+    <id>https://cfmayer.github.io/si-sentinel/issues/2026-11-12/</id>
+    <published>2026-11-12T08:00:00-05:00</published>
+    <updated>2026-11-12T08:16:16-05:00</updated>
+    <summary type="html">&lt;p&gt;Nvidia&#x27;s board met Wednesday night to decide whether to remove its co-founder and CEO after reports of two extramarital affairs, one with a woman US intelligence reportedly suspects of being a Chinese spy. No decision had been announced by morning. Tim Sweeney called a firing &quot;Apple firing Steve Jobs level of idiocy,&quot; Palmer Luckey wrote &quot;China wants Jensen out, so I want him in,&quot; and David Heinemeier Hansson and Suhail Doshi argued for proportion and patience. Elon Musk, asked to hire Huang, replied &quot;That would be an honor.&quot;&lt;/p&gt;&lt;p&gt;Google DeepMind released AlphaGenome 2, which predicts how DNA variants act in specific cell types, and Google launched a Decisions API whose model scores up to 1,000 questions in one pass instead of writing text. Musk put numbers on space solar and &quot;actually usable&quot; compute, said SpaceX would &quot;happily&quot; take back compute rented to Anthropic, and launched Grok Bot 1.0. Tesla&#x27;s Robotaxi now runs around the clock in every city it serves.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Wednesday, November 11, 2026: Google opens Gemini 4 Carbon to all paying users, Stripe closes its OpenRouter deal, and builders argue over who checks the agents&#x27; work</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-11/"/>
