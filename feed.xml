@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/si-sentinel/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/"/>
   <id>https://cfmayer.github.io/si-sentinel/</id>
-  <updated>2026-11-18T08:32:41-05:00</updated>
+  <updated>2026-11-19T08:25:58-05:00</updated>
   <author><name>The SI Sentinel</name></author>
   <icon>https://cfmayer.github.io/si-sentinel/apple-touch-icon.png</icon>
   <rights>The SI Sentinel is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased; emoji in quoted posts are omitted.</rights>
+  <entry>
+    <title>Thursday, November 19, 2026: Google ships Gemini 4 Neon, Anthropic prices a record IPO, and Musk calls Huang irreplaceable</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-19/"/>
+    <link rel="enclosure" type="application/pdf" length="709321" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-19/si-sentinel-2026-11-19.pdf"/>
+    <id>https://cfmayer.github.io/si-sentinel/issues/2026-11-19/</id>
+    <published>2026-11-19T08:00:00-05:00</published>
+    <updated>2026-11-19T08:25:58-05:00</updated>
+    <summary type="html">&lt;p&gt;Google released Gemini 4 Neon on Wednesday afternoon, a fast model it ranks third on the Artificial Analysis Intelligence Index and first on that firm&#x27;s coding-agent index, at $3 per million input tokens. Sundar Pichai, Demis Hassabis and Koray Kavukcuoglu announced it within minutes of each other, and Elon Musk called it &quot;a banger.&quot; Google DeepMind also opened its Genie 4 world model to Ultra subscribers.&lt;/p&gt;&lt;p&gt;Anthropic priced its initial public offering at $83 a share, above its range, raising about $81.3 billion in the largest listing on record. Its shares are due to start trading on Nasdaq today as ANT. At the New York Times DealBook Summit, Musk compared Jensen Huang to Michael Jordan and laid out a timeline for Terafab, and Satya Nadella said Microsoft would lease SpaceX computing capacity. OpenAI said its models found up to 14% gains in AMD&#x27;s flagship GPU design.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Wednesday, November 18, 2026: Huang offers to come back, Nvidia&#x27;s board says no, and the quarter tops $115 billion</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-18/"/>
