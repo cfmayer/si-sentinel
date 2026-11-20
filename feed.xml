@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/si-sentinel/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/"/>
   <id>https://cfmayer.github.io/si-sentinel/</id>
-  <updated>2026-11-19T08:25:58-05:00</updated>
+  <updated>2026-11-20T08:23:43-05:00</updated>
   <author><name>The SI Sentinel</name></author>
   <icon>https://cfmayer.github.io/si-sentinel/apple-touch-icon.png</icon>
   <rights>The SI Sentinel is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased; emoji in quoted posts are omitted.</rights>
+  <entry>
+    <title>Friday, November 20, 2026: Anthropic jumps 17% in its debut, Cybercab reaches Dallas, and Google puts a quantum paradox to work</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-20/"/>
+    <link rel="enclosure" type="application/pdf" length="1431018" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-20/si-sentinel-2026-11-20.pdf"/>
+    <id>https://cfmayer.github.io/si-sentinel/issues/2026-11-20/</id>
+    <published>2026-11-20T08:00:00-05:00</published>
+    <updated>2026-11-20T08:23:43-05:00</updated>
+    <summary type="html">&lt;p&gt;Anthropic opened on Nasdaq at $111.50 on Thursday, well above its $83 offering price, and closed at $97.17, up 17%. Its first-day volume beat SpaceX&#x27;s June debut. Rival founders and partners, from Lisa Su to Aidan Gomez and Aravind Srinivas, posted congratulations, and some of them added requests about how the newly public company should behave.&lt;/p&gt;&lt;p&gt;Tesla opened public Cybercab rides in Dallas, its second city for the two-seat car with no steering wheel, and the Senate passed a sweeping permitting-reform bill 62 to 33. Google Quantum AI made the cover of Science with a game its Willow chip wins 98.3% of the time, where no classical strategy can top 88.9%. Builders kept arguing for Jensen Huang&#x27;s return to Nvidia, and the agent tools kept coming.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Thursday, November 19, 2026: Google ships Gemini 4 Neon, Anthropic prices a record IPO, and Musk calls Huang irreplaceable</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/si-sentinel/issues/2026-11-19/"/>
